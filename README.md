@@ -1,6 +1,7 @@
 <div align="center">
-  <a href="https://choiyeonho0903.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/Resume-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="https://choiyeonho903.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-A100FF?style=flat-square&logo=Github&logoColor=white"/></a>
+  <a href="https://choiyeonho0903.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://choiyeonho903.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-A100FF?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <p></p>
 
 
 ![ChoiYeonho0903's github stats](https://github-readme-stats.vercel.app/api?username=ChoiYeonho0903&show_icons=true&theme=radical)
